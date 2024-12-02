@@ -49,7 +49,7 @@ int main() {
         l2.push_back(j);
     }
     
-    cout<<distance(l1, l2, n);
+    cout<<distance(l1, l2, n)<<\n;
     cout<<similarity_score(l1, l2, n);
 
     return 0;
